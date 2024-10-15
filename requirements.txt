@@ -1,0 +1,7 @@
+PyQt5==5.15.9
+openai-whisper==20230314
+numpy==1.24.3
+torch==2.0.1
+torchaudio==2.0.2
+ffmpeg-python==0.2.0
+
